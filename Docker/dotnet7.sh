@@ -6,4 +6,4 @@ dpkg -i packages-microsoft-prod.de
 rm packages-microsoft-prod.deb
 
 apt-get update
-apt-get install -y dotnet-sdk-7.0
+apt-get install -y dotnet-sdk-7.0.12
