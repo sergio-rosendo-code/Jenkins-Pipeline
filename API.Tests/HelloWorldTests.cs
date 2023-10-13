@@ -12,6 +12,6 @@ public class HelloWorldTests
 
         var response = await client.GetStringAsync("/");
     
-        Assert.Equal("Hello World!", response);
+        Assert.Equal("Hello World", response);
     }
 }
