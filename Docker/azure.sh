@@ -1,1 +1,1 @@
-curl -sL https://aka.ms/InstallAzureCLIDeb
+curl -sL https://aka.ms/InstallAzureCLIDeb | bash
