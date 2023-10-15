@@ -1,1 +1,1 @@
-curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+curl -sL https://aka.ms/InstallAzureCLIDeb | bash
